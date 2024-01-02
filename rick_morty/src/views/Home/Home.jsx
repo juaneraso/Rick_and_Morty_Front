@@ -19,9 +19,8 @@ const Home = () =>{
 
   return(
      <div>
-
-     <Cards/>   
-
+      <h1>Rick and Morty</h1>
+      <Cards/>   
 
      </div>
 

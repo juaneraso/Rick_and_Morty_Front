@@ -1,14 +1,22 @@
 import Home from "./views/Home/Home"
-
+import {  Route, Routes} from "react-router-dom";
+import Landing from "./views/Landing/Landing";
 function App() {
 
 
 
   return (
      <div>
-     <h1>Rick and Morty</h1>
-     <Home/>
+   
      
+     <Routes>
+
+      <Route path="/" element ={<Landing/>} />
+      <Route path="/home" element ={<Home/>} />
+     
+     </Routes>
+      
+   
 
      </div>
   )
