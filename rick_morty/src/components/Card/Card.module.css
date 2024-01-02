@@ -1,0 +1,23 @@
+.card{
+    border: 1px solid black;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 10px;  
+  
+  }
+
+  .image{
+    max-width: 80%; /* Ajustando el tamaño máximo de las imágenes */
+    height: 200px;
+    border-radius: 10px;
+    margin: 10px ;
+   }
+   h1{
+    font-size: 32px;
+    text-align: center;
+   }
+   p{
+     font-size: 20px;
+     text-align: center;
+
+   }
