@@ -7,7 +7,7 @@ const Landing = () =>{
      <div className={style.container}>
 
       <img className={style.backgroundImage}           
-         src = "https://shorturl.at/gvGO9"
+         src = "https://shorturl.at/fKCYB"
          alt="landing"           
           />
         <h1 className={style.heading}>Bienvenido al proyecto Rick and Morty</h1>
