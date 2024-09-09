@@ -11,7 +11,6 @@ const Landing = () =>{
          alt="landing"           
           />
         <h1 className={style.heading}>Bienvenido al proyecto Rick and Morty</h1>
-
         <Link to= "/home"> 
           <button  className={style.centeredButton} >INGRESAR</button>
         </Link>
